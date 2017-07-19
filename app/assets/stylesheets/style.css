@@ -16,6 +16,71 @@ nav .brand-logo {
 p {
   line-height: 2rem;
 }
+hr{
+  width: 100%;
+  margin-bottom: 60px;
+  height: 0px;
+  border: 0px;
+  border-top: 1px solid #aaa;
+}
+.mainTitle{
+  font-family: 'Cabin Condensed';
+  font-size: 72px;
+  text-align: center;
+  text-shadow: 3px 3px 3px #000;
+}
+.sectionTitle{
+  font-family: 'Cabin Condensed';
+  font-size: 56px;
+  text-align: center;
+  color: white;
+  text-shadow: 3px 3px 3px #666;
+}
+.sectionTitleB{
+  font-family: 'Cabin Condensed';
+  font-size: 48px;
+  text-align: center;
+  color: #ddd;
+  text-shadow: 3px 3px 3px #666;
+}
+.sectionTitleC{
+  font-family: 'Cabin Condensed';
+  font-size: 48px;
+  text-align: left;
+  color: #ddd;
+  text-shadow: 3px 3px 3px #666;
+}
+.sectionText{
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: 300;
+  font-size: 24px;
+  text-align: center;
+  color: white;
+  /*text-shadow: 3px 3px 3px #999;*/
+}
+.sectionTextB{
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+  color: white;
+  /*text-shadow: 3px 3px 3px #999;*/
+}
+
+.tagline{
+  font-family: 'Yanone Kaffeesatz';
+  font-size: 36px;
+  text-align: center;
+  text-shadow: 3px 3px 3px #333;
+}
+.sectionB{
+  border: 2px solid #bbb;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin:20px;
+  /*box-shadow: 5px 5px 10px #333;*/
+}
 
 .button-collapse {
   color: #26a69a;
