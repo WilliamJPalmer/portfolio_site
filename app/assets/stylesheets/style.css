@@ -43,6 +43,13 @@ hr{
   color: #ddd;
   text-shadow: 3px 3px 3px #666;
 }
+.sectionTitleBB{
+  font-family: 'Cabin Condensed';
+  font-size: 48px;
+  text-align: center;
+  color: #fff;
+  text-shadow: 3px 3px 3px #666;
+}
 .sectionTitleC{
   font-family: 'Cabin Condensed';
   font-size: 48px;
